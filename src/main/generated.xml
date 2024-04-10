@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <id>17</id>
+    <firstName>Paulius</firstName>
+    <lastName>Vaiciulis</lastName>
+    <student-code>046598</student-code>
+    <account>
+        <id>15</id>
+        <password>user1</password>
+        <username>user1</username>
+    </account>
+    <subjects>
+        <credits>6</credits>
+        <id>19</id>
+        <name>Astronomy</name>
+    </subjects>
+    <subjects>
+        <credits>6</credits>
+        <id>20</id>
+        <name>Math</name>
+    </subjects>
+    <subjects>
+        <credits>3</credits>
+        <id>21</id>
+        <name>English</name>
+    </subjects>
+    <subjects>
+        <credits>3</credits>
+        <id>22</id>
+        <name>Literature</name>
+    </subjects>
+</student>
